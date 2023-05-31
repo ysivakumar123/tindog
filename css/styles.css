@@ -1,0 +1,119 @@
+
+h1 {
+    font-family: "Montserrat", "sans-serif";
+    color: #fff;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: bold;
+}
+h2{
+    font-family: "Montserrat", "sans-serif";
+    color: #fff;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: bold;
+}
+
+em {
+    color:#fff;
+}
+
+p{
+    color: gray;
+}
+
+h3 {
+    font-family: "Montserrat", "sans-serif";
+    font-weight: bolder;
+    margin-top: 6%;
+}
+.navbar{
+    margin-bottom: 7%;
+}
+.navbar-brand{
+    font-family: "Montserrat", "sans-serif";
+    font-weight: 600;
+    font-size: 2rem;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.btn{
+    margin: 7% 3% 7% 0%;
+}
+
+#title {
+    background-color: #ff4c68;
+    z-index: -1;
+}
+
+#features{
+    text-align:center;
+    padding: 7% 15%;
+}
+
+#testimonials {
+    text-align:center;
+    background-color: #ef8172;
+}
+
+.carousel-item{
+    PADDING: 7% 15%;
+}
+
+.iphone-image{
+    width: 60%;
+    transform: rotate(20deg);
+}
+
+.fa-feature {
+    color: #ef8172;
+}
+
+.feature-parts{
+    padding: 0% 5%;
+}
+
+.fa {
+    margin: 0% 3px;
+}
+
+.testimonial-images{
+    width: 10%;
+    border-radius: 100% ;
+    margin: 0% 3%;
+}
+
+.brands{
+    padding: 5% 15%;
+}
+
+.brands-image{
+    width: 30%;
+    padding: 0% 3%;
+}
+
+.card{
+    margin: 10% 5% 0% 5%;
+}
+
+#download {
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 5% 15% 0% 15%;
+}
+
+#pricing {
+    padding: 7% 15%;
+    text-align: center;
+}
+
+#footer {
+    text-align: center;
+    padding: 5%;
+}
+
+.pricing-heading {
+    color: #000;
+}
